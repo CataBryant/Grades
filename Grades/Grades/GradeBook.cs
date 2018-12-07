@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 class Gradebook
     {
         
-        public Gradebook()
+        private Gradebook()
         {
             grades = new List<float>();
         }
