@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Grades
 {
-    class GradeStatistic
+    public class GradeStatistic
     {
         public GradeStatistic()
         {
